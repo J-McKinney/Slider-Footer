@@ -1,0 +1,25 @@
+.skinnyFooter {
+  width: 100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  justify-content: center;
+  /*Slider Footer*/
+  text-align: center;
+  position: sticky;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  padding-top: 10px;
+}
+
+h5 {
+  font-weight: bold;
+  font-style: italic;
+}
