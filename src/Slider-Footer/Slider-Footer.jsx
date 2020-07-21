@@ -30,7 +30,6 @@ class SkinnyFooter extends Component {
                 </li>
               </ul>
             </Col>
-
             <Col>
               <ul>
                 <li>
