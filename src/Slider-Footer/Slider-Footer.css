@@ -1,4 +1,4 @@
-.skinnyFooter {
+.sliderFooter {
   width: 100%;
   padding-top: 5%;
   padding-bottom: 5%;
@@ -22,4 +22,5 @@ li {
 h5 {
   font-weight: bold;
   font-style: italic;
+  color: #282c34;
 }

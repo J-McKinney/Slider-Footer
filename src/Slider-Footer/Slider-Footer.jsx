@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import "./SkinnyFooter.css";
+import "./Slider-Footer.css";
 
 class SkinnyFooter extends Component {
   componentDidMount() {
@@ -12,7 +12,7 @@ class SkinnyFooter extends Component {
   render() {
     return (
       <>
-        <Container className="skinnyFooter">
+        <Container className="sliderFooter">
           <Row>
             <Col>
               <ul>
