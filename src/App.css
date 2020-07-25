@@ -1,12 +1,13 @@
 .App {
   text-align: center;
-  /* display: contents; */
   z-index: 102;
+  /* position: absolute; */
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  z-index: 103;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -24,10 +25,12 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  z-index: 103;
 }
 
 .App-link {
   color: #61dafb;
+  z-index: 103;
 }
 
 @keyframes App-logo-spin {
