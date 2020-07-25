@@ -10,7 +10,7 @@
   left: 0;
   width: 100%;
   z-index: 101;
-  display: block;
+  /* display: contents; */
 }
 
 ul {
@@ -31,5 +31,4 @@ a {
   color: #282c34;
   position: relative;
   z-index: 100;
-  display: block;
 }
